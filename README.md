@@ -1,13 +1,15 @@
 # TodoList App
 
 ## Project Features
-*Create a dummy Todos
+<ul>
+  <li>Create a dummy Todos</li>
 
-*Fetches 5 todos from JSONPLACEHOLDER API
+  <li>Fetches 5 todos from JSONPLACEHOLDER API</li>
 
-*Delete the Todos
+  <li>Delete the Todos</li>
 
-*Mark Todos when done
+  <li>Mark Todos when done</li>
+</ul>
 
 <hr>
 
