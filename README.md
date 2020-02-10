@@ -4,7 +4,7 @@
 <ul>
   <li>Create a dummy Todos</li>
 
-  <li>Fetches 5 todos from JSONPLACEHOLDER API</li>
+  <li>Fetches 5 todos from [JSONPLACEHOLDER API] (https://jsonplaceholder.typicode.com/)</li>
 
   <li>Delete the Todos</li>
 
